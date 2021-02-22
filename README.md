@@ -2,7 +2,7 @@
 
 - 2020.02.22 (월)
 
-  clipToOutline과 OutlineProvider의 존재를 알게 되었다.
+  clipToOutline과 outlineProvider의 존재를 알게 되었다.
   
   검색 기능의 페이징에 TDD를 가볍게 적용 시키기 위해 리서치를 했다.
 
