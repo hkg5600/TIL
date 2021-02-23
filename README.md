@@ -1,5 +1,9 @@
 # TIL
 
+- 2020.02.23 (화)
+
+  custom ratingbar에는 vector 이미지가 아닌 png를 사용하는 것이 좋다.
+
 - 2020.02.22 (월)
 
   clipToOutline과 outlineProvider의 존재를 알게 되었다.
